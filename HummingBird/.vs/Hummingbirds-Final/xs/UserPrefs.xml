@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7B6A2177-B5CD-B62F-7244-AAA839CF192D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gameplay/HummingbirdAgent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay/FlowerArea.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/Gameplay/FlowerPlant.cs" />
+      <File FileName="Assets/Scripts/Gameplay/Flower.cs" />
+      <File FileName="Assets/Scripts/Gameplay/HummingbirdAgent.cs" Line="129" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hummingbirds-Final" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Gameplay" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f0fa77f-e361-4452-9dc1-7554fba8b700" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
