@@ -27,7 +27,7 @@ To get started with this project, follow the steps below:
 ## Video Demonstration
 A comprehensive video demonstration of the hummingbird agent in action is available for viewing. This video provides insight into the agent's behavior, interaction with the environment, and the results of the training process.
 
-![Alt text](/HummingBird/IMG_4253.png" "Optional title")
+![Alt text](/HummingBird/IMG_4253.png "Optional title")
 
 
 ## Acknowledgments
